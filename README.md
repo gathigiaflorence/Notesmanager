@@ -1,4 +1,4 @@
-# Q2-End-sem - Simple Notes Manager
+# Simple Notes Manager
 
 A lightweight notes application that demonstrates **advanced DOM manipulation** and **browser storage** using `localStorage`. Users can create, view, and delete notes. All notes persist even after refreshing the page.
 
