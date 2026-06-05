@@ -10,4 +10,7 @@ A lightweight notes application that demonstrates **advanced DOM manipulation** 
 - Delete notes using event delegation
 - Simple, responsive design
 
+<img width="931" height="501" alt="image" src="https://github.com/user-attachments/assets/437cf446-58c4-4d8e-988d-0b019b0f3722" />
+
+
 The live URL is at https://gathigiaflorence.github.io/Notesmanager/
